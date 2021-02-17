@@ -1,0 +1,1 @@
+This is a randomized initial condition game of life that runs in browser. It's meant to be used with the live server extension in vs code.
